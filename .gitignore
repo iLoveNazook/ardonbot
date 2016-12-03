@@ -44,6 +44,5 @@ jspm_packages
 .yarn-integrity
 
 # config file
-./config.js
 config.js
   
